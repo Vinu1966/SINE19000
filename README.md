@@ -35,4 +35,4 @@ That's it!
 > **Do NOT use this library for malware, tracking, spying, or violating user privacy.**  
 > The author assumes no liability for misuse.
 
-<hr><p align="center">SINE19000 V1.0.2</p>
+<hr><p align="center">SINE19000 V1.0.3</p>
